@@ -1,1 +1,1 @@
-# Breast-Cancer-Prediction
+# SEE MASTER BRANCH FOR THE PROJECT
